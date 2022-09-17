@@ -1,6 +1,7 @@
-.body{
+body {
 
-	background-color: black;
+background-color: #EEEEEE;
+
 }
 
 
@@ -10,15 +11,84 @@ margin-left: 550px;
 margin-top: 100px;
 
 }
-.img_careers .img_resources{
+
+.img_careers h2{
+
+margin-top: 10px;
+
+}
+.img_resources{
 
 margin-left: 350px;
-margin-top: -150px;
+margin-top: -158px;
+
 
 }
 
+.img_resources h2{
+
+margin-top: 10px;
+margin-left: -20px;
+
+}
+
+.img_bootcamps{
+
+margin-top: 100px;
+margin-left: -350px;
+
+}
+
+.img_bootcamps h2{
+ 	margin-top: 10px;
+	margin-left: -30px;
+}
+
+
+.img_campus{
+margin-top: -155px;
+margin-left: -5px;
+
+
+}
+
+.img_campus h2{
+margin-top: 10px;
+margin-left: -8px;
+
+}
+
+/*
 #navbarSupportedContent{
 
 
 	text-align: center;
+}
+*/
+
+.card{
+
+	margin-left: 100px;
+	border-color: #277BC0;
+	border-width: 3px;
+	border-radius: 20px;
+	background: #FFB3B3;
+
+}
+.card img{
+width: 150px;
+height: 150px;
+margin-top: 20px;
+margin-left: 60px;
+
+}
+
+.hr1{
+margin-top: 500px;
+height:3px;
+border-width:0;
+color:gray;
+background-color:#5F6F94;
+
+
 }
