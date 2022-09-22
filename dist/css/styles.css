@@ -11391,7 +11391,6 @@ margin-left: 50px;
     white-space: nowrap;
     overflow: hidden;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
     transform: translateY(-50%);    
 }
 
@@ -11416,5 +11415,8 @@ margin-left: 50px;
 }
 .lg{
   background-color: #000000;
+}
+.marqueegrey{
+  color:grey;
 }
 
