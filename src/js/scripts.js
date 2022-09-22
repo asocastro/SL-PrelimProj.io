@@ -19,3 +19,7 @@ window.addEventListener('DOMContentLoaded', event => {
     }
 
 });
+
+var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+    target: '#navbar-example'
+  })
