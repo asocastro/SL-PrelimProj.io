@@ -4518,10 +4518,16 @@ textarea.form-control-lg {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: pink;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+
+
+
+
+
+
 }
 .card > hr {
   margin-right: 0;
@@ -11344,31 +11350,16 @@ color: #EB4747;
 margin-bottom: -180px;
 }
 
-.LOGO{
-border-radius: 50%;
-margin-left: 50px;
-
-}
-
-#num1{
-  margin-left: 100px;
 
 
 
 }
 
-#num2{
-  margin-top: -423px;
-  margin-left: 600px;
+.id1{
 
-  
+border-radius: 3px;
+
 }
-
-#num3{
-  margin-left: 1100px;
-  margin-top: -423px;
-}
-
 
 .h1{
   font-size: 2.5rem;
@@ -11396,8 +11387,8 @@ margin-left: 50px;
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 2s steps(22) 1s 1 normal both,
-             blinkTextCursor 600ms steps(22) infinite normal;
+  animation: typewriter 2s steps(23) 1s 1 normal both,
+             blinkTextCursor 600ms steps(23) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
@@ -11419,4 +11410,5 @@ margin-left: 50px;
 .marqueegrey{
   color:grey;
 }
+
 
