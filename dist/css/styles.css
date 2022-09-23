@@ -77,7 +77,15 @@
     scroll-behavior: smooth;
   }
 }
-
+.nbgc{
+  background-color: #24233d !important;
+}
+.bbgc{
+  background-color: #ffffff !important;
+}
+.lbgc{
+  background-color: #e7ebf7 !important;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -11349,11 +11357,6 @@ color: #EB4747;
 margin-bottom: -180px;
 }
 
-
-
-
-}
-
 .id1{
 
 border-radius: 3px;
@@ -11423,9 +11426,7 @@ margin-bottom: 20px;
   height: 300px;
   overflow: auto;
 }
-.lg{
-  background-color: #000000;
-}
+
 
 
 
