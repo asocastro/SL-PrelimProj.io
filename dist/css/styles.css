@@ -12,7 +12,6 @@
  */
 
 
-
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11385,6 +11384,26 @@ border-radius: 3px;
     transform: translateY(-50%);    
 }
 
+.logo1{
+
+border-radius: 150px;
+margin-left: 350px;
+margin-bottom: 20px;
+}
+
+
+.logo2{
+
+  border-radius: 150px;
+  margin-left: 750px; 
+  margin-top: -400px;
+
+}
+
+
+
+
+
 /* Animation */
 .anim-typewriter{
   animation: typewriter 2s steps(23) 1s 1 normal both,
@@ -11407,8 +11426,7 @@ border-radius: 3px;
 .lg{
   background-color: #000000;
 }
-.marqueegrey{
-  color:grey;
-}
+
+
 
 
