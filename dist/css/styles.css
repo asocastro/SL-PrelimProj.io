@@ -6543,10 +6543,10 @@ textarea.form-control-lg {
 }
 
 .sticky-top {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 1020;
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1020 !important;
 }
 
 @media (min-width: 576px) {
