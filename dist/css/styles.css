@@ -11387,23 +11387,6 @@ border-radius: 3px;
     transform: translateY(-50%);    
 }
 
-.logo1{
-
-border-radius: 150px;
-margin-left: 350px;
-margin-bottom: 20px;
-}
-
-
-.logo2{
-
-  border-radius: 150px;
-  margin-left: 750px; 
-  margin-top: -400px;
-
-}
-
-
 
 
 
@@ -11426,7 +11409,6 @@ margin-bottom: 20px;
   height: 300px;
   overflow: auto;
 }
-
 
 
 
